@@ -1,0 +1,7 @@
+com\myshop\testcases\TC_RegisteredUserLoginTest.class
+com\myshop\pageobject\HomePage.class
+com\myshop\testcases\BaseClass.class
+com\myshop\utilities\ReadConfig.class
+com\myshop\utilities\ExtentListenerClass.class
+com\myshop\pageobject\RegisteredUserAccountPage.class
+com\myshop\pageobject\SigninPage.class
